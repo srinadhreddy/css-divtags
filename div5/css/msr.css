@@ -1,0 +1,40 @@
+.srinadh{
+	width:700px;
+	border:1px solid black;
+	background-color:lavender;
+	height:150px;
+}
+
+.sri1{
+     width:100px;
+	 border:1px dashed red;
+	 height:145px;
+	 float:left;
+	 
+}
+.sri2{
+     width:200px;
+	 background-color:lavender;
+	 height:145px;
+	 float:left;	 
+}
+
+.sri3{
+     width:100px;
+	 border:1px dashed red;
+	 height:145px;
+	 float:left;
+     
+}
+.sri4{
+     width:200px;
+	 background-color:lavender;
+	 height:145px;
+	 float:left;
+}
+.sri5{
+	width:90px;
+	 border:1px dashed red;
+	 height:145px;
+	 float:right;	 
+}

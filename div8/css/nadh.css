@@ -1,0 +1,18 @@
+.srinadh{
+       width:600px;
+	   height:90px;
+	   background-color:none;
+	   border:5px solid yellow;
+}
+.sri1{
+	 width:150px;
+	 height:90px;
+	 background-color:red;
+	 float:left;
+}
+.sri2{
+	 width:450px;
+	 height:90px;
+	 background-color:green;
+	 float:right;
+}

@@ -1,0 +1,29 @@
+#main
+{
+	width:900px;
+	height:200px;
+	border:1px solid black;
+}
+#body1
+{
+	width:98px;
+	height:48px;
+	background-color:red;
+	margin-top:65px;
+}
+#body2
+{
+	width:98px;
+	height:48px;
+	background-color:blue;
+	margin-top:-48px;
+	margin-left:400px;
+}
+#body3
+{
+	width:98px;
+	height:48px;
+	background-color:green;	
+	float:right;
+	margin-top:-50px;
+}
